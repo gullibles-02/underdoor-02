@@ -1,10 +1,16 @@
 {
-  "name": "ObuqFx3igwVUU9UNtJtrNBJxbKssI4zzSbXySpR1ygqjFRoWwH",
+  "name": "หุ้นเยอรมัน marketwatch ทำไมถึงนิยม - เว็บใหม่ lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.24",
   "description": "หุ้นเยอรมัน marketwatch นักพนันที่เข้ามาเล่นหวยยี่กี่กับทาง หุ้นเยอรมัน marketwatch จาก หุ้นเยอรมัน marketwatch Lotto หวยออนไลน์ อันดับหนึ่ง Mawinbet ท่านจ",
   "repository": "https://github.com/gullibles-02/underdoor-02",
-  "keywords": ["หุ้นเยอรมัน MARKETWATCH","หุ้นเยอรมัน","MARKETWATCH","หุ้นเยอรมัน Lotto","MARKETWATCH Lotto"],
+  "keywords": [
+    "หุ้นเยอรมัน MARKETWATCH",
+    "หุ้นเยอรมัน",
+    "MARKETWATCH",
+    "หุ้นเยอรมัน Lotto",
+    "MARKETWATCH Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
