@@ -1,16 +1,10 @@
 {
-  "name": "หวยสด huaysod ที่ไหน - เว็บใหม่ lotto 2023 ล่าสุด",
+  "name": "rRsfr7pHZvIWmQDLtBDO37dsSXNHZrMb5reDprlvFfnlmq5s1R",
   "theme": "syntax",
   "version": "1.0.7",
   "description": "หวยสด HUAYSOD หวยหุ้นนิเคอิคืออะไร จนถึง หวยสด HUAYSOD Lotto ล็อตโต้ หวยออนไลน์ มีหวยทุกชนิด จ่ายบาทละเท่าไหร่ มาหาคำตอบกันได้เลย",
   "repository": "https://github.com/gullibles-02/underdoor-02",
-  "keywords": [
-    "หวยสด HUAYSOD",
-    "หวยสด",
-    "HUAYSOD",
-    "หวยสด Lotto",
-    "HUAYSOD Lotto"
-  ],
+  "keywords": ["หวยสด HUAYSOD","หวยสด","HUAYSOD","หวยสด Lotto","HUAYSOD Lotto"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
