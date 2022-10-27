@@ -1,0 +1,12 @@
+{
+  "name": "SK3ziH6WlnqOLWjUDQiwWsyVO9lZZFTb1qFwW4HdD8HYFiQT73",
+  "theme": "syntax",
+  "version": "1.0.4",
+  "description": "หวยหุ้นไทยชุดเดียวแม่นๆ หมายเหตุ อย่างไรก็ดี หวยหุ้นไทยชุดเดียวแม่นๆ ที่ Cat888 เว็บหวยออนไลน์ อันดับหนึ่ง โดยปกติ สลากออมสิน หรือ หวยออมสิน จะออกทุกวันที่",
+  "repository": "https://github.com/gullibles-02/underdoor-02",
+  "keywords": ["หวยหุ้นไทยชุดเดียวแม่นๆ","หวยหุ้นไทยชุดเดียวแม่นๆ Cat888"],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
