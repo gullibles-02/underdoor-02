@@ -1,18 +1,10 @@
 {
-  "name": "แทงหวย มาเล ย์ ได้อย่างไร - เว็บใหม่ ruay 2023 ล่าสุด",
+  "name": "YIXPlUdKH5lkWyit77kLqX4IlSKGZ5P3gox7DzdyqKOtc3vn66",
   "theme": "syntax",
   "version": "1.0.42",
   "description": "แทงหวย มาเล ย์ ดูบอลสด หาก แทงหวย มาเล ย์ ที่ Ruay เว็บหวยออนไลน์ อันดับหนึ่ง แมนซิตี้ พบ นิวคาสเซิ่ล พรีเมียร์ลีก สำหรับ ดูผ่านมือถือ แท็บเล็ต คอมพิวเตอร์",
   "repository": "https://github.com/gullibles-02/underdoor-02",
-  "keywords": [
-    "แทงหวย มาเล ย์",
-    "แทงหวย",
-    "มาเล",
-    "ย์",
-    "แทงหวย Ruay",
-    "มาเล Ruay",
-    "ย์ Ruay"
-  ],
+  "keywords": ["แทงหวย มาเล ย์","แทงหวย","มาเล","ย์","แทงหวย Ruay","มาเล Ruay","ย์ Ruay"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
