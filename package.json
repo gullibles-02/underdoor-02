@@ -1,10 +1,24 @@
 {
-  "name": "EwWPIRriJet62G2RGo7iM0j7tdqH0ayYl1gMGUjaGstfkbrm1b",
+  "name": "เล่นหวยหุ้น ให้ ได้ กํา ไร pantip มีคำตอบ - เว็บใหม่ jetsadabet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.51",
   "description": "เล่นหวยหุ้น ให้ ได้ กํา ไร pantip ล่าง หากว่า เล่นหวยหุ้น ให้ ได้ กํา ไร pantip Jetsadabet เจษฎาเบท หวยออนไลน์ มีหวยทุกชนิด 5บน 3",
   "repository": "https://github.com/gullibles-02/underdoor-02",
-  "keywords": ["เล่นหวยหุ้น ให้ ได้ กํา ไร PANTIP","เล่นหวยหุ้น","ให้","ได้","กํา","ไร","PANTIP","เล่นหวยหุ้น Jetsadabet","ให้ Jetsadabet","ได้ Jetsadabet","กํา Jetsadabet","ไร Jetsadabet","PANTIP Jetsadabet"],
+  "keywords": [
+    "เล่นหวยหุ้น ให้ ได้ กํา ไร PANTIP",
+    "เล่นหวยหุ้น",
+    "ให้",
+    "ได้",
+    "กํา",
+    "ไร",
+    "PANTIP",
+    "เล่นหวยหุ้น Jetsadabet",
+    "ให้ Jetsadabet",
+    "ได้ Jetsadabet",
+    "กํา Jetsadabet",
+    "ไร Jetsadabet",
+    "PANTIP Jetsadabet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
