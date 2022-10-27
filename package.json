@@ -1,10 +1,13 @@
 {
-  "name": "NTDVE1qz3lwuw2CCPHmITwtbGShnh00scDWa1lPpWTsmxLCy8h",
+  "name": "ตรวจหวย16สิงหาคม2564 ที่ไหน - เว็บใหม่ lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.35",
   "description": "ตรวจหวย16สิงหาคม2564 ถ้าคุณต้องการได้ความแม่นยำของเลขหวยหุ้นฮั่งเส็ง ตรวจหวย16สิงหาคม2564 เท่ากับ ตรวจหวย16สิงหาคม2564 Lotto หวยออนไลน์ อันดับหนึ่ง เพียงแค",
   "repository": "https://github.com/gullibles-02/underdoor-02",
-  "keywords": ["ตรวจหวย16สิงหาคม2564","ตรวจหวย16สิงหาคม2564 Lotto"],
+  "keywords": [
+    "ตรวจหวย16สิงหาคม2564",
+    "ตรวจหวย16สิงหาคม2564 Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
