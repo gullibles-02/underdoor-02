@@ -1,10 +1,16 @@
 {
-  "name": "p7DrHkc5xbf2vIQk3EnXvbAl37fb9PO1pVqwxu3lLVf9s1rqOh",
+  "name": "หุ้นไต้หวัน tradingview สรุปว่าอะไร - เว็บใหม่ tubtim389 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.75",
   "description": "หุ้นไต้หวัน tradingview เลขเม็ดเดียว สำหรับ หุ้นไต้หวัน tradingview Tubtim389 ทับทิม789 หวยออนไลน์ มีหวยทุกชนิด 08 080ขอให้สนุกกับการซื้อหวยออนไลน์งวดนี้ค่",
   "repository": "https://github.com/gullibles-02/underdoor-02",
-  "keywords": ["หุ้นไต้หวัน TRADINGVIEW","หุ้นไต้หวัน","TRADINGVIEW","หุ้นไต้หวัน Tubtim389","TRADINGVIEW Tubtim389"],
+  "keywords": [
+    "หุ้นไต้หวัน TRADINGVIEW",
+    "หุ้นไต้หวัน",
+    "TRADINGVIEW",
+    "หุ้นไต้หวัน Tubtim389",
+    "TRADINGVIEW Tubtim389"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
