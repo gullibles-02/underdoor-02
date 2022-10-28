@@ -1,10 +1,13 @@
 {
-  "name": "jRVrb8atGbevyPNZwwWjXDo4zgfNurGkq9CB3Ybpk6wPlPxonp",
+  "name": "huaydee เล่นยังไง - เว็บใหม่ ruay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.69",
   "description": "Huaydee เลขเด็ดที่เว็บไซต์หวยไทยของเราจะนำเสนอเป็นแนวทางสลากกินแบ่งรัฐบาล กะ Huaydee Ruay รวย หวยออนไลน์ มีหวยทุกชนิด หรือ หวยรัฐบาล งวดวันที่ 301263 หวยคน",
   "repository": "https://github.com/gullibles-02/underdoor-02",
-  "keywords": ["HUAYDEE","HUAYDEE Ruay"],
+  "keywords": [
+    "HUAYDEE",
+    "HUAYDEE Ruay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
